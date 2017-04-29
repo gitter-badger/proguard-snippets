@@ -55,6 +55,7 @@ dependencies {
 * [EventBus 2.0.2](https://github.com/greenrobot/EventBus)
 * [Facebook 3.2.0](https://developers.facebook.com/docs/android/)
 * [Facebook Conceal](https://facebook.github.io/conceal/)
+* [Facebook Fresco](https://github.com/facebook/fresco/)
 * [Flurry 3.4.0](http://support.flurry.com/index.php?title=Analytics/Code/ReleaseNotes/Android)
 * [Google Analytics 3.0+](https://developers.google.com/analytics/devguides/collection/android/v3/)
 * [Google Guava](https://code.google.com/p/guava-libraries/)
